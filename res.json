@@ -2,7 +2,7 @@
   code:0,
   message:"",
 version："1.1.1",
-force:"true",
+force:true,
 info："1、更新了xx功能\n2、修复了xxbug",
 url:"https://zhengxyou.github.io/bookkeeping/resv1.zip"
 }
