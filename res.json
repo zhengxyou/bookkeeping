@@ -1,7 +1,7 @@
 {
     "code": 0,
     "message": "",
-    "version": "1.3.25",
+    "version": "1.3.26",
     "force": true,
     "info": "1. 管理单停、管理停机、黑名单可办理业务增加营销退订\n2. 5G融合开户、单移变更5G固移融合：数字用户选择增加融合子套餐校验\n3. 融合新装--快点订购显示重复用户问题定位及修复\n4. 整转融合、融合新装、市场化置换、歌华小果：NoticeFuseofferOrderResultToPhone接口accessWay必传，值为定位客户的接入方式【固网】\n5. 年终模拟预存赠送活动、整转融合、融合新装、市场化置换、有线电视新装：calculateFee接口accessWay必传，值为定位客户的接入方式【固网】",
     "url": "https://zhengxyou.github.io/bookkeeping/resv2.zip"
